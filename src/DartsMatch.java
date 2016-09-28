@@ -35,7 +35,7 @@ public class DartsMatch extends JFrame
 
     public DartsMatch(String title)
     {
-        setSize(500, 300);
+        setSize(500, 5git00);
         setTitle(title);
         JOptionPane.showMessageDialog(null, "Throw for the bull");
         player1 = new Player((String)JOptionPane.showInputDialog(
